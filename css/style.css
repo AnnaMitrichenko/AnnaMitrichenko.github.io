@@ -181,3 +181,14 @@ footer.index-footer {
     to { background-position: 0 100%, -200% 10%, -30% 15%, 150% 10%, 120% 55%, 50% 15%, 0 0; }
 }
 
+.proo {
+  max-width: 50em;
+  min-width: 10em;
+  overflow: auto;
+  margin: 0 auto;
+  position: fixed !important;
+  top: 3ex; 
+  left: 0;
+  right: 0;
+  z-index: 999;
+}
